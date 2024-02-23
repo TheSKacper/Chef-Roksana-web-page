@@ -86,6 +86,12 @@
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 2;
   }
+
+  @media (min-width: 576px) { 
+    .home {
+        background-image: url('../assets/spaghetti-1932466_640.jpg');
+      }
+   }
   
   /* ABOUT */
   
