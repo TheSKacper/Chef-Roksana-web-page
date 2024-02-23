@@ -31,7 +31,7 @@
     position: relative;
     min-width: 100%;
     min-height: 100vh;
-    background-image: url('../assets/spaghetti-1932466_1280.jpg');
+    background: url('../assets/spaghetti-1932466_1280.jpg');
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -89,7 +89,7 @@
 
   @media (min-width: 576px) { 
     .home {
-        background-image: url('../assets/spaghetti-1932466_640.jpg');
+        background: url('../assets/spaghetti-1932466_640.jpg');
       }
    }
   
